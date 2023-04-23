@@ -2,7 +2,7 @@
 )]
 <h1 align="center">Hi 👋, I'm Kaviraj </h1>
 <h3 align="center">A passionate Smart Worker from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&tbnid=ITaGGdoGDaxxhM&vet=12ahUKEwi75rbjssD-AhXt_zgGHfOMDckQMygAegUIARCNAg..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&docid=DjMcDTxMfmhRGM&w=480&h=360&q=animated%20coding%20gif&ved=2ahUKEwi75rbjssD-AhXt_zgGHfOMDckQMygAegUIARCNAg">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavirajec&label=Profile%20views&color=0e75b6&style=flat" alt="kavirajec" /> </p>
