@@ -8,6 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavirajec" alt="kavirajec" /></a> </p>
 <img align="right" alt="Coding" width="350" src= "https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" />
+
 - 🔭 I’m currently pursuing BE.,ECE **At Bannari Amman Institute Of Technology,Sathyamangalam**
 
 - 🌱 I’m currently learning **problem solving(using C and C++)**
@@ -22,6 +23,7 @@
 
 - 📫 How to reach me **kaviraj.ec21@bitsathy.ac.in**
 
+<img align="right" alt="Coding" width="350" src= "https://cdn.dribbble.com/users/2883808/screenshots/8141567/image.png" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaviraj-a-21a32622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaviraj-a-21a32622a" height="30" width="40" /></a>
