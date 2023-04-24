@@ -2,13 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Kaviraj </h1> 
 <h3 align="center">A passionate Smart Worker from India</h3>
-<img align="right" alt="Coding" width="350" src= "https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavirajec&label=Profile%20views&color=0e75b6&style=flat" alt="kavirajec" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavirajec" alt="kavirajec" /></a> </p>
-
+<img align="right" alt="Coding" width="350" src= "https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" />
 - 🔭 I’m currently pursuing BE.,ECE **at Bannari Amman Institute Of Technology,Sathyamangalam**
 
 - 🌱 I’m currently learning **problem solving(using C and C++)**
