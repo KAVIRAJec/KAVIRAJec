@@ -34,5 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavirajec&show_icons=true&locale=en&layout=compact" alt="kavirajec" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavirajec&show_icons=true&locale=en" alt="kavirajec" /></p>
-
+<p></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavirajec&" alt="kavirajec" /></p>
