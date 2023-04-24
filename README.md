@@ -1,9 +1,8 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5%2F68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966&tbnid=M2smYocOcR_iGM&vet=10CAIQxiAoAGoXChMI2KWburTA_gIVAAAAAB0AAAAAEAg..i&imgrefurl=https%3A%2F%2Fgithub.com%2FParikshit001&docid=pARMKOBr7ffksM&w=1900&h=684&itg=1&q=animated%20banner%20gif%20for%20github&ved=0CAIQxiAoAGoXChMI2KWburTA_gIVAAAAAB0AAAAAEAg#imgrc=M2smYocOcR_iGM&imgdii=TkI7gQ7Q4UqbWM.gif)]
+[![MasterHead](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)]
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
 <h1 align="center">Hi 👋, I'm Kaviraj </h1> 
 <h3 align="center">A passionate Smart Worker from India</h3>
-<img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif)" />
+<img align="right" alt="Coding" width="350" src= "https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavirajec&label=Profile%20views&color=0e75b6&style=flat" alt="kavirajec" /> </p>
