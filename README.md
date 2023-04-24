@@ -3,7 +3,7 @@
 ![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
 <h1 align="center">Hi 👋, I'm Kaviraj </h1> 
 <h3 align="center">A passionate Smart Worker from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgquggac3pfv687qppc.gif" />
+<img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif)" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavirajec&label=Profile%20views&color=0e75b6&style=flat" alt="kavirajec" /> </p>
