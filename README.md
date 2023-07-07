@@ -17,11 +17,11 @@
 
 - 🤝 I’m currently working on **Web development projects**
 - 
-- 👨‍💻 All of my projects are available at [my Github](my Github)
+- 👨‍💻 All of my projects are available at [my Github](https://github.com/KAVIRAJec)
 
 - 💬 Ask me about **PCB design**
 
-- 📫 How to reach me **kaviraj.ec21@bitsathy.ac.in**
+- 📫 How to reach me **kavirajppm2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
