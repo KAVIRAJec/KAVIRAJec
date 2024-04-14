@@ -19,12 +19,12 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.KAVIRAJec }}
           outputs: dist/snake.svg?palette=github-dark
 
 
       - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: KAVIRAJec
         with:
           target_branch: output
           build_dir: dist
