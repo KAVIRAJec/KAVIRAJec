@@ -72,6 +72,9 @@
 <img src="https://assets.ubuntu.com/v1/49a1a858-favicon-32x32.png" height="40" alt="ubuntu logo" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+ 
 </p>
 
 # 📊 GitHub Stats:
