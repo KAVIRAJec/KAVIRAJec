@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/KAVIRAJec/KAVIRAJec/blob/main/Blue%20And%20White%20Bold%20Business%20Solution%20LinkedIn%20Article%20Cover%20Image.gif)
+![MasterHead](https://github.com/KAVIRAJec/KAVIRAJec/blob/main/github-cover.gif)
 
 <h1 align="center">Hi 👋, I'm Kaviraj </h1> 
 <h3 align="center">A passionate Fullstack developer</h3>
