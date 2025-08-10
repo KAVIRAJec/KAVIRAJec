@@ -14,9 +14,7 @@
 
 - 🌱 I’m currently learning **Cloud(AWS) & DevOps**
 
-- 👯 I have worked on **Fullstack & IOT projects**
-
-- 🤝 I’m currently working on **Web development projects**
+- 👯 I have expertized in **Fullstack & IOT projects**
   
 - 👨‍💻 All of my projects are available at [my Github](https://github.com/KAVIRAJec)
 
