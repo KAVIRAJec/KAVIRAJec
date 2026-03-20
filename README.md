@@ -12,13 +12,11 @@
 
 <img align="right" alt="Coding" width="350" src= "https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" />
 
-- 🌱 I’m currently learning **Cloud(AWS) & DevOps**
-
-- 👯 I have expertized in **Fullstack & IOT projects**
-  
-- 👨‍💻 All of my projects are available at [my Github](https://github.com/KAVIRAJec)
-
-- 💬 Ask me about **Web Development and Cloud**
+- 🌱 Currently diving deep into **GenAI**, building things that almost feel like magic
+- 🚀 Strong expertise in **Fullstack Development & AWS Cloud**
+- 👯 Always open to collaborate on scalable systems, AI-driven apps, and cloud-native solutions
+- 👨‍💻 Explore my work here → [Github](https://github.com/KAVIRAJec)
+- 💬 Ask me about Code, Cloud, or why my terminal works better than my life decisions 😄
 
 # 🌐 Socials:
 ![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
